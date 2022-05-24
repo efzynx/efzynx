@@ -7,6 +7,6 @@
 </p>
 
 <div align="center">
-<h3> CONNECT WITH ME <h3>
+### CONNECT WITH ME
   <a href="https://www.facebook.com/RedTripper"> <img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 </div>
