@@ -7,9 +7,10 @@
 </p>
 
 <div align="center">
-### &#x1F919; CONNECT WITH ME
-[![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Efzynn/)
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/efzynn)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/efzyn_)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285156724122)
+  <p>
+    <h1>
+      CONNECT WITH ME
+    </h1>
+  <a href="https://www.facebook.com/RedTripper" src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+  </p>
 </div>
