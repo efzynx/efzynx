@@ -4,6 +4,9 @@
   <a href="https://instagram.com/efzyn_">
     <img src="https://i.ibb.co/LZ9QtBx/photo-2022-05-14-19-06-30.jpg" width="400px">
   </a> <br> <br>
+</p>
+
+<p align="center">
 
 ### CONNECT WITH ME
   <a href="https://www.facebook.com/RedTripper"> <img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white"> </a>
