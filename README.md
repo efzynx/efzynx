@@ -1,15 +1,31 @@
-<h2 align="left">Hi 👋! My name is Fauzan and I'm a student from indonesia</h2>
+<h2 align="left">Hi 👋! My name is Fauzan</h2>
 
 ###
 
+<p align="left">🎓 Informatics Engineering Student at Universitas Nurul Jadid<br>💻 Web Developer | ⚙️ Linux Explorer | ☁️ Future DevOps Enthusiast</p>
+
+###
+
+<br clear="both">
+
+<img align="left" height="170" src="https://i.ibb.co/LZ9QtBx/photo-2022-05-14-19-06-30.jpg"  />
+
+###
+
+<p align="left">🌱 Currently diving into web development (HTML, CSS, JS, Python)<br><br>🐧 Love tinkering with Linux & exploring new open-source tools<br><br>📦 Interested in DevOps, automation, and cloud computing<br><br>🎯 Always curious & learning something new every day</p>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efzynx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=efzynx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=efzynx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=efzynx&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/LZ9QtBx/photo-2022-05-14-19-06-30.jpg"  />
+<h2 align="left">🛠️ Tech & Tools</h2>
 
 ###
 
@@ -35,17 +51,31 @@
 
 ###
 
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=efzynx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">📫 Connect with Me</h2>
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/efzyn_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   </a>
   <a href="usenpusen1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/efzyn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">📌 Contribute</h2>
 
 ###
 
