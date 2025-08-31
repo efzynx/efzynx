@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="left" height="170" src="https://i.ibb.co/LZ9QtBx/photo-2022-05-14-19-06-30.jpg"  />
+<img align="left" height="200" src="https://i.ibb.co/LZ9QtBx/photo-2022-05-14-19-06-30.jpg"  />
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=efzynx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
